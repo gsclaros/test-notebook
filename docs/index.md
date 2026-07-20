@@ -7,3 +7,7 @@ This documentation includes a notebook as proof of concept.
 You can run the example notebook interactively on Google Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gsclaros/test-notebook/blob/main/docs/notebooks/test.ipynb)
+
+another example
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gsclaros/test-notebook/blob/main/hello_world.ipynb)
