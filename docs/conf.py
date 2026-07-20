@@ -18,6 +18,7 @@ extensions = [
     'sphinx_rtd_theme',
 ]
 
+master_doc = 'index'
 # Allow both .rst and .md files as source
 source_suffix = {
     '.rst': 'restructuredtext',
