@@ -7,7 +7,9 @@ build:
 
 python:
   install:
-    - requirements: requirements.txt
+    - pip install ipykernel
+    - pip install -r requirements.txt
+    - python -m ipykernel install --user --name new-env --display-name "Python (new-env)"
 
 sphinx:
   configuration: conf.py
