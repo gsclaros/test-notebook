@@ -14,7 +14,6 @@ author = 'Gianna Sophia Claros'
 
 extensions = [
     'myst_parser',
-    'nbsphinx',
     'sphinx_rtd_theme',
 ]
 
