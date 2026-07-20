@@ -1,6 +1,7 @@
-.. toctree::
-   :maxdepth: 2
-   :caption: Notebooks
+# Notebooks
 
-   notebooks/hello_world.ipynb
-   notebooks/test.ipynb
+```{toctree}
+:maxdepth: 2
+
+notebooks/hello_world.ipynb
+notebooks/test.ipynb
