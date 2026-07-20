@@ -4,3 +4,4 @@ jupyter
 myst_parser
 nbsphinx
 sphinx_rtd_theme
+ipykernel
