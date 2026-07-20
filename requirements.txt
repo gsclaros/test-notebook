@@ -1,4 +1,6 @@
 numpy
 pandas
 jupyter
-myst-parser
+myst_parser
+nbsphinx
+sphinx_rtd_theme
